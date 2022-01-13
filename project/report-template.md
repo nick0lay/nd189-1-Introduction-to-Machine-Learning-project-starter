@@ -32,10 +32,10 @@ After hyperparameter tunnign I didn't see quite significant inprovements. Hence 
 |hpo|1|1|3|0.52189|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 AutoML is really great concept which help to try different solutions with less time. And after trial iterrate on existing solution to improve it. But even with this we still have to pay attention to feature engeenering and hyperparameter tunning to get best result possible.
