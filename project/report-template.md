@@ -25,7 +25,7 @@ After hyperparameter tunnign I didn't see quite significant inprovements. Hence 
 3. Increase training time and try to find better model.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
+|model|num_bag_folds|num_bag_sets|num_stack_levels|score|
 |--|--|--|--|--|
 |initial|5|5|5|0.52739|
 |add_features|1|3|3|0.52605|
